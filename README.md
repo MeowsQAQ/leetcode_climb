@@ -1,2 +1,6 @@
-# Initial page
+---
+description: just Chong！
+---
+
+# leetcode solvent
 
