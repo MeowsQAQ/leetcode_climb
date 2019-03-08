@@ -1,6 +1,6 @@
 # LeetCode_climb
 
-* [leetcode solvent](README.md)
+* [Just Chong!](README.md)
 * [1.TWO SUM](1.two-sum.md)
 * [2.Add Two Numbers](untitled.md)
 
