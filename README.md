@@ -1,6 +1,6 @@
 # LeetCode\_climb
 
-* [Just Chong!](./SUMMARY.md)
+* [Just Chong!](https://github.com/MeowsQAQ/leetcode_climb/tree/655cdf7ae302fbe2d2f90b24b0ca50255da4dcc7/SUMMARY.md)
 * [1.Two Sum](1.two-sum.md)
 * [2.Add Two Numbers](https://github.com/MeowsQAQ/leetcode_climb/tree/77d266983c508e4f28cb9d83c7cdaeae92a51236/untitled.md)
 * [3.Longest Substring Without Repeating Characters](3.-longest-substring-without-repeating-characters.md)
@@ -14,4 +14,8 @@
 * [11.Container With Most Water](11.-container-with-most-water.md)
 * [12.Integer to Roman](12.-integer-to-roman.md)
 * [13.Roman to Integer](13.-roman-to-integer.md)
+* [14.Longest Common Prefix](14.-longest-common-prefix.md)
+* [15.3Sum](15.-3sum.md)
+* [16.3Sum Closest](16.-3sum-closest.md)
+* [17.Letter Combinations of a Phone Number](17.-letter-combinations-of-a-phone-number.md)
 
