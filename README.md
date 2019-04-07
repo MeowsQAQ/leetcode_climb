@@ -27,4 +27,5 @@
 * [24.Swap Nodes in Pairs](24.-swap-nodes-in-pairs.md)
 * [25.Reverse Nodes in k-Group](25.-reverse-nodes-in-k-group.md)
 * [26.Remove Duplicates from Sorted Array](26.-remove-duplicates-from-sorted-array.md)
+* [27.Remove Element](27.-remove-element.md)
 
