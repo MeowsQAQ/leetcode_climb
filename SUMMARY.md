@@ -28,4 +28,5 @@
 * [25. Reverse Nodes in k-Group](25.-reverse-nodes-in-k-group.md)
 * [26. Remove Duplicates from Sorted Array](26.-remove-duplicates-from-sorted-array.md)
 * [27. Remove Element](27.-remove-element.md)
+* [28. Implement strStr\(\)](28.-implement-strstr.md)
 
