@@ -37,4 +37,5 @@
 * [34. Find First and Last Position of Element in Sorted Array](34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [35. Search Insert Position](35.-search-insert-position.md)
 * [36. Valid Sudoku](36.-valid-sudoku.md)
+* [38.Count and Say](38.count-and-say.md)
 
