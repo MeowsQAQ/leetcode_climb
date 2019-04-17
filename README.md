@@ -38,4 +38,5 @@
 * [35.Search Insert Position](35.-search-insert-position.md)
 * [36.Valid Sudoku](36.-valid-sudoku.md)
 * [38.Count and Say](38.count-and-say.md)
+* [39.Combination Sum](39.-combination-sum.md)
 
