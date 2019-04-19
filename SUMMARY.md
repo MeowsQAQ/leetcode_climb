@@ -40,4 +40,5 @@
 * [38.Count and Say](38.count-and-say.md)
 * [39. Combination Sum](39.-combination-sum.md)
 * [40. Combination Sum II](40.-combination-sum-ii.md)
+* [41. First Missing Positive](41.-first-missing-positive.md)
 
