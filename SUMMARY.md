@@ -43,4 +43,5 @@
 * [41. First Missing Positive](41.-first-missing-positive.md)
 * [42. Trapping Rain Water](42.-trapping-rain-water.md)
 * [43. Multiply Strings](43.-multiply-strings.md)
+* [44. Wildcard Matching](44.-wildcard-matching.md)
 
