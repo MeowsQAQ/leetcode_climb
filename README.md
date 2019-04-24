@@ -45,6 +45,7 @@
 * [43.Multiply String](43.-multiply-strings.md)
 * [44.Wildcard Matching](44.-wildcard-matching.md)
 * [45.Jump Game Ⅱ](45.-jump-game-ii.md)
+* [46.Permutations](46.-permutations.md)
 
 
 
