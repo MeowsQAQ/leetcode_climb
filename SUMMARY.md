@@ -46,4 +46,5 @@
 * [44. Wildcard Matching](44.-wildcard-matching.md)
 * [45. Jump Game II](45.-jump-game-ii.md)
 * [46. Permutations](46.-permutations.md)
+* [47. Permutations II](47.-permutations-ii.md)
 
