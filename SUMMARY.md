@@ -49,4 +49,5 @@
 * [47. Permutations II](47.-permutations-ii.md)
 * [48. Rotate Image](48.-rotate-image.md)
 * [49. Group Anagrams](49.-group-anagrams.md)
+* [50. Pow\(x, n\)](50.-pow-x-n.md)
 
