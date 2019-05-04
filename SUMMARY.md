@@ -52,4 +52,5 @@
 * [50. Pow\(x, n\)](50.-pow-x-n.md)
 * [53. Maximum Subarray](53.-maximum-subarray.md)
 * [54. Spiral Matrix](54.-spiral-matrix.md)
+* [55. Jump Game](55.-jump-game.md)
 
