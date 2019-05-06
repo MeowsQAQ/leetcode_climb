@@ -53,4 +53,5 @@
 * [53. Maximum Subarray](53.-maximum-subarray.md)
 * [54. Spiral Matrix](54.-spiral-matrix.md)
 * [55. Jump Game](55.-jump-game.md)
+* [56. Merge Intervals](56.-merge-intervals.md)
 
