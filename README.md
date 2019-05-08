@@ -54,10 +54,8 @@
 * [54.Spiral Matrix](54.-spiral-matrix.md)
 * [55.Jump Game](55.-jump-game.md)
 * [56.Merge Intervals](56.-merge-intervals.md)
-
-
-
-
+* 57.Insert Intervals
+* 58.Length of Last Word
 
 
 
