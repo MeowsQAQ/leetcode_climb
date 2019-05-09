@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [LeetCode\_climb](README.md)
 * [1.TWO SUM](1.two-sum.md)
@@ -54,5 +54,7 @@
 * [54. Spiral Matrix](54.-spiral-matrix.md)
 * [55. Jump Game](55.-jump-game.md)
 * [56. Merge Intervals](56.-merge-intervals.md)
-* [57.Insert Intervals](57insert-intervals.md)
+* [57. Insert Interval](57.-insert-interval.md)
+* [58. Length of Last Word](58.-length-of-last-word.md)
+* [59. Spiral Matrix II](59.-spiral-matrix-ii.md)
 
