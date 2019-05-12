@@ -58,4 +58,5 @@
 * [58. Length of Last Word](58.-length-of-last-word.md)
 * [59. Spiral Matrix II](59.-spiral-matrix-ii.md)
 * [60. Permutation Sequence](60.-permutation-sequence.md)
+* [61. Rotate List](61.-rotate-list.md)
 
