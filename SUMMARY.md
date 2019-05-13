@@ -59,4 +59,5 @@
 * [59. Spiral Matrix II](59.-spiral-matrix-ii.md)
 * [60. Permutation Sequence](60.-permutation-sequence.md)
 * [61. Rotate List](61.-rotate-list.md)
+* [62. Unique Paths](62.-unique-paths.md)
 
