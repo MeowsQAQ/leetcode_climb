@@ -63,6 +63,7 @@
 * [63.Unique Paths Ⅱ](63.-unique-paths-ii.md)
 * [64.Minimum Path Sum](64.-minimum-path-sum.md)
 * [65.Valid Number](65.-valid-number.md)
+* [66.Plus One](66.-plus-one.md)
 
 
 
