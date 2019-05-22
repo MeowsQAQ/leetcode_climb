@@ -66,4 +66,5 @@
 * [66. Plus One](66.-plus-one.md)
 * [67. Add Binary](67.-add-binary.md)
 * [69.Sqrt（x）](69.sqrt-x.md)
+* [70.Climbing Stairs](70.climbing-stairs.md)
 
