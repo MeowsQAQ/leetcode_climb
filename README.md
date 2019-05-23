@@ -67,6 +67,7 @@
 * [67.Add Binary](67.-add-binary.md)
 * [69.Sqrt\(x\)](69.sqrt-x.md)
 * [70.Climbing Stairs](70.climbing-stairs.md)
+* [73.Set Matrix](73.-set-matrix-zeroes.md)
 
 
 
