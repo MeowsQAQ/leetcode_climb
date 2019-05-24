@@ -68,6 +68,7 @@
 * [69.Sqrt\(x\)](69.sqrt-x.md)
 * [70.Climbing Stairs](70.climbing-stairs.md)
 * [73.Set Matrix](73.-set-matrix-zeroes.md)
+* [74.Search a 2D Matrix](74.-search-a-2d-matrix.md)
 
 
 
