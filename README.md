@@ -76,6 +76,7 @@
 * [79.Word Search](79.-word-search.md)
 * [80.Remove Duplicates from Sorted Array Ⅱ](80.-remove-duplicates-from-sorted-array-ii.md)
 * [81.Search in Rotated Sorted Array Ⅱ](81.-search-in-rotated-sorted-array-ii.md)
+* [82.Remove Duplicates from Sorted List Ⅱ](82.-remove-duplicates-from-sorted-list-ii.md)
 
 
 
