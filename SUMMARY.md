@@ -77,4 +77,5 @@
 * [80. Remove Duplicates from Sorted Array II](80.-remove-duplicates-from-sorted-array-ii.md)
 * [81. Search in Rotated Sorted Array II](81.-search-in-rotated-sorted-array-ii.md)
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
+* [83. Remove Duplicates from Sorted List](83.-remove-duplicates-from-sorted-list.md)
 
