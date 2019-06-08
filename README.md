@@ -78,6 +78,7 @@
 * [81.Search in Rotated Sorted Array Ⅱ](81.-search-in-rotated-sorted-array-ii.md)
 * [82.Remove Duplicates from Sorted List Ⅱ](82.-remove-duplicates-from-sorted-list-ii.md)
 * [83.Remove Duplicates from Sorted List Ⅱ](83.-remove-duplicates-from-sorted-list.md)
+* [84.Largest Rectangle in Histogram](84.-largest-rectangle-in-histogram.md)
 
 
 
