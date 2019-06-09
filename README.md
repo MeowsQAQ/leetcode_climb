@@ -79,6 +79,7 @@
 * [82.Remove Duplicates from Sorted List Ⅱ](82.-remove-duplicates-from-sorted-list-ii.md)
 * [83.Remove Duplicates from Sorted List Ⅱ](83.-remove-duplicates-from-sorted-list.md)
 * [84.Largest Rectangle in Histogram](84.-largest-rectangle-in-histogram.md)
+* [85.Maximal Rectangle](85.-maximal-rectangle.md)
 
 
 
