@@ -80,4 +80,5 @@
 * [83. Remove Duplicates from Sorted List](83.-remove-duplicates-from-sorted-list.md)
 * [84. Largest Rectangle in Histogram](84.-largest-rectangle-in-histogram.md)
 * [85. Maximal Rectangle](85.-maximal-rectangle.md)
+* [86. Partition List](86.-partition-list.md)
 
