@@ -81,6 +81,7 @@
 * [84.Largest Rectangle in Histogram](84.-largest-rectangle-in-histogram.md)
 * [85.Maximal Rectangle](85.-maximal-rectangle.md)
 * [86.Partition List](86.-partition-list.md)
+* [87.Scramble String](87.-scramble-string.md)
 
 
 
