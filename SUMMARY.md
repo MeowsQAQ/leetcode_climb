@@ -83,4 +83,5 @@
 * [86. Partition List](86.-partition-list.md)
 * [87. Scramble String](87.-scramble-string.md)
 * [88. Merge Sorted Array](88.-merge-sorted-array.md)
+* [89. Gray Code](89.-gray-code.md)
 
