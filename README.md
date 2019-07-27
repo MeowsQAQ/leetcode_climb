@@ -87,6 +87,8 @@
 * [90.Subsets Ⅱ](90.-subsets-ii.md)
 * [91.Decode Ways](91.-decode-ways.md)    
 * [92.Reverse Linked ListⅡ](92.-reverse-linked-list-ii.md)
+* [93.Restore IP Addresses](93.-restore-ip-addresses.md)
+* [94.Binary Tree Inorder Traversal](94.-binary-tree-inorder-traversal.md)
 
 
 
