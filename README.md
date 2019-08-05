@@ -92,6 +92,7 @@
 * [95.Unique Binary Search Trees Ⅱ](95.-unique-binary-search-trees-ii.md)
 * [96.Unique Binary Search Trees ](96.-unique-binary-search-trees.md)
 * [97.Interleaving String](97.-interleaving-string.md)
+* [98.Validate Binary Search Tree](98.-validate-binary-search-tree.md)
 
 
 
