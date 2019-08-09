@@ -5,6 +5,7 @@
 ## JAVA
 
 * [2. Add Two Numbers](java/2.-add-two-numbers.md)
+* [3. Longest Substring Without Repeating Characters](java/3.-longest-substring-without-repeating-characters.md)
 
 ## Python
 
