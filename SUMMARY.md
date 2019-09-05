@@ -8,6 +8,10 @@
 * [3. Longest Substring Without Repeating Characters](java/3.-longest-substring-without-repeating-characters.md)
 * [4. Median of Two Sorted Arrays](java/4.-median-of-two-sorted-arrays.md)
 
+## Ruby
+
+* [1. Two Sum](ruby/1.-two-sum.md)
+
 ## Python
 
 * [1.TWO SUM](python/1.two-sum.md)
