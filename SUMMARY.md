@@ -12,6 +12,7 @@
 ## Ruby
 
 * [1. Two Sum](ruby/1.-two-sum.md)
+* [Untitled](ruby/untitled.md)
 
 ## Python
 
