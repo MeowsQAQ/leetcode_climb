@@ -12,7 +12,8 @@
 ## Ruby
 
 * [1. Two Sum](ruby/1.-two-sum.md)
-* [Untitled](ruby/untitled.md)
+* [2.Add Two Numbers](ruby/untitled.md)
+* [4. Median of Two Sorted Arrays](ruby/4.-median-of-two-sorted-arrays.md)
 
 ## Python
 
