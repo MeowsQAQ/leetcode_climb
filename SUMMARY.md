@@ -112,4 +112,5 @@
 * [98. Validate Binary Search Tree](python/98.-validate-binary-search-tree.md)
 * [99. Recover Binary Search Tree](python/99.-recover-binary-search-tree.md)
 * [100. Same Tree](python/100.-same-tree.md)
+* [101. Symmetric Tree](python/101.-symmetric-tree.md)
 
