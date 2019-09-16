@@ -10,6 +10,7 @@
 * [4. Median of Two Sorted Arrays](java/4.-median-of-two-sorted-arrays.md)
 * [6. ZigZag Conversion](java/6.-zigzag-conversion.md)
 * [7. Reverse Integer](java/7.-reverse-integer.md)
+* [8. String to Integer \(atoi\)](java/8.-string-to-integer-atoi.md)
 
 ## Ruby
 
