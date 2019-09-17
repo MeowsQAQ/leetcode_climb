@@ -17,6 +17,7 @@
 * [1. Two Sum](ruby/1.-two-sum.md)
 * [2.Add Two Numbers](ruby/untitled.md)
 * [4. Median of Two Sorted Arrays](ruby/4.-median-of-two-sorted-arrays.md)
+* [104. Maximum Depth of Binary Tree](ruby/104.-maximum-depth-of-binary-tree.md)
 
 ## Python
 
@@ -116,4 +117,5 @@
 * [100. Same Tree](python/100.-same-tree.md)
 * [101. Symmetric Tree](python/101.-symmetric-tree.md)
 * [102. Binary Tree Level Order Traversal](python/102.-binary-tree-level-order-traversal.md)
+* [104. Maximum Depth of Binary Tree](python/104.-maximum-depth-of-binary-tree.md)
 
