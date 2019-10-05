@@ -122,4 +122,6 @@
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](python/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 * [106. Construct Binary Tree from Inorder and Postorder Traversal](python/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
 * [107. Binary Tree Level Order Traversal II](python/107.-binary-tree-level-order-traversal-ii.md)
+* [108. Convert Sorted Array to Binary Search Tree](python/108.-convert-sorted-array-to-binary-search-tree.md)
+* [109. Convert Sorted List to Binary Search Tree](python/109.-convert-sorted-list-to-binary-search-tree.md)
 
