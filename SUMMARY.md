@@ -11,6 +11,7 @@
 * [6. ZigZag Conversion](java/6.-zigzag-conversion.md)
 * [7. Reverse Integer](java/7.-reverse-integer.md)
 * [8. String to Integer \(atoi\)](java/8.-string-to-integer-atoi.md)
+* [9. Palindrome Number](java/9.-palindrome-number.md)
 * [104.Maximum Depth of Binary](java/104.maximum-depth-of-binary.md)
 * [109. Convert Sorted List to Binary Search Tree](java/109.-convert-sorted-list-to-binary-search-tree.md)
 
