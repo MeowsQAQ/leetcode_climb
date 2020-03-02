@@ -15,6 +15,7 @@
 * [10. Regular Expression Matching](java/10.-regular-expression-matching.md)
 * [104.Maximum Depth of Binary](java/104.maximum-depth-of-binary.md)
 * [109. Convert Sorted List to Binary Search Tree](java/109.-convert-sorted-list-to-binary-search-tree.md)
+* [1010. Pairs of Songs With Total Durations Divisible by 60](java/1010.-pairs-of-songs-with-total-durations-divisible-by-60.md)
 
 ## Ruby
 
